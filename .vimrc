@@ -38,3 +38,4 @@ let g:UltiSnipsExpandTrigger="<C-l>"
 set runtimepath+=~/.vim/snippets/
 
 source ~/.vim/custom/terraform.vim
+source ~/.vim/custom/python.vim

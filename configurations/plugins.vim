@@ -9,5 +9,7 @@ Plug 'hashivim/vim-terraform'
 Plug 'SirVer/ultisnips'
 " JS & React
 Plug 'epilande/vim-es2015-snippets'
+" Python linters
+Plug 'psf/black', { 'branch': 'stable' }
 call plug#end()
 
